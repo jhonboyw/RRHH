@@ -201,7 +201,7 @@ CREATE TABLE IF NOT EXISTS `empleados` (
 
 INSERT INTO `empleados` (`id`, `apellido_nombre`, `antiguedad`, `deleted_at`, `created_at`, `updated_at`, `situacion_revista`, `cargo`, `cuil`, `tel`, `domicilio`, `horario`, `area`, `fecha_ingreso`) VALUES
 (4, 'Empleado Prueba', '0', NULL, '2018-04-11 13:33:46', '2018-04-11 13:33:46', NULL, NULL, NULL, NULL, NULL, NULL, NULL, '0000-00-00'),
-(5, 'Lopez Anibal', '0', NULL, '2018-04-23 07:56:38', '2018-04-23 07:56:38', NULL, NULL, NULL, NULL, NULL, NULL, NULL, '0000-00-00'),
+(5, 'Bonilla Jhon', '0', NULL, '2018-04-23 07:56:38', '2018-04-23 07:56:38', NULL, NULL, NULL, NULL, NULL, NULL, NULL, '0000-00-00'),
 (7, 'AHUMADA, Eduardo', '0', NULL, NULL, NULL, 'Permanente', 'Director de Coordinación Operativa', '23-12559499-9', '2147483647', 'Gabriel R de azua 3863 B° Urca', '8 a 14 Hs.', 'Mantenimiento', '0000-00-00'),
 (8, 'AMARANTO, Larisa', '0', NULL, NULL, NULL, 'Suplente', 'Oficial Superior', '27-33414180-8', '2147483647', 'Sucre 1479 6to \"C\" B° Cofico', 'Rotativo', 'Prensa', '0000-00-00'),
 (9, 'AMUCHASTEGUI, Luis', '0', NULL, NULL, NULL, 'Permanente', 'Ayudante', '20-14293631-4', '2147483647', 'Carlos Pellegrini 1626 S Vicente', '9 a 15 Hs.', 'Mantenimiento', '0000-00-00'),
